@@ -28,6 +28,7 @@ Visual
 ![Work](./img/Portfolio%20work.jpg)
 
 Deploy
+https://maricods.github.io/Marys-Portfolio/
 
 Credits N/A
 
