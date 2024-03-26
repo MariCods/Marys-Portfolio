@@ -30,10 +30,7 @@
   background-position: center; */
   
  }
- /* main{
-   width: 1280px;
-   margin: auto;
- } */
+ 
  header{
   position: fixed;
   top: 0;
@@ -47,18 +44,7 @@
 
  }
 
- img .logo{
-  /* position: relative;
-  color: black;
-  font-size: 15px;
-  text-decoration: none;
-  text-transform: uppercase;
-  font-weight: 800;
-  letter-spacing: 1px; */
-  /* width: 100px; */
- 
 
- }
 
  img{
    display: block;
@@ -100,13 +86,6 @@
   #about, #projects, #contact{
    width: 100%;
    min-height: 720px;
-   
-   
-   
- 
-   
-  
-   /* border: 1px solid black; */
  }
  #about{
    background: url(img/pexels-moose-photos-1037996.jpg);
@@ -127,10 +106,10 @@
    flex-wrap:nowrap;
    width: 100%;
    padding: 5em 2em;
-    /* margin-top: 100px; */
+
    justify-content: space-between;
    
-   /* background-color: #498b5b ; */
+   
  }
 
 
@@ -160,16 +139,7 @@
   text-align: center;
  }
 
- /* #contactForm {
-    border-radius: 15px; 
-   background-color: whitesmoke;
-   padding: 60px 100px;
-   height: 100VH;
-   width: 50%;
-   margin-left: 10cm;
-   
-   
-} */
+ 
 .coming-soon{
    font-size: 25px;
     padding-top: 2cm;
@@ -217,15 +187,7 @@ color: black;
 
 
 
- /* .content .info h2{
-    color: black;
-    font-size: 50px;
-    text-transform: uppercase;
-    font-weight: 800;
-    letter-spacing: 2px;
-    line-height: 45px;
-    margin-bottom: 15px;
- } */
+ 
 
  .content .info h2 span{
     color: white;
@@ -240,7 +202,6 @@ color: black;
  .content .info p{
     font-size: 20px;
     font-weight: 500;
-    /* margin-bottom: 15px; */
     color: black;
     
  }
@@ -250,24 +211,9 @@ color: black;
    color: white;
  }
 
- /* .content .info-btn{
-    color: white;
-    background: white;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-weight: 700;
-    letter-spacing: 2px;
-    padding: 10px 20px;
-    border-radius: 5px;
-    transition: 0.3s;
-   
- } */
+ 
 
- /* .content .info-btn:hover{
-    background: black;
-    color: #fff;
-
- } */
+ 
  
  .media-icons{
     display: flex;
@@ -353,10 +299,7 @@ line-height: 50px;
    margin: 0;
  }
  
- /* .navigation:hover, .dropdown:hover .dropbtn {
-   background-color: red;
- }
-  */
+ 
  .dropdown-content {
    display: none;
    position: absolute;
